@@ -20,7 +20,7 @@ To import, download [IITC-pogo.json](IITC-pogo.json) and use the **Import Gyms &
 
 When you export your data, it will be named IITC-pogo.json by default.
 
-# How to edit attributes
+# How to edit stop/gym/waypoint attributes
 ![](images/attributes.png)
 
 Try to not include Medals in this dataset, but if it becomes an issue I'll write a script to remove them.
@@ -34,6 +34,12 @@ First go to https://wayfarer.nianticlabs.com/nominations and click on your submi
 Now go back to https://intel.ingress.com/intel and input the latitude and longitude pair into the search box. You'll see a marker appear in the cell grid.
 
 ![](images/find-submission.png)
+
+# How to contribute
+
+If you want to contribute what you can see, first import the latest [IITC-pogo.json](IITC-pogo.json), then export it and submit a pull request with the updated file.
+
+If you don't know how to use git, you can email me your IITC-pogo.json at <bhanks@mit.ede> and I can add it for you.
 
 # Resources and communities
 
