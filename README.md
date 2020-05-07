@@ -13,7 +13,7 @@ Once the tools are loaded, you can use them on the Ingress intel portal: https:/
 # How to import/export json
 These screenshots are using the desktop version of IITC & PoGo Tools in Firefox, but should have a similar flow on other platforms & browsers.
 
-To import, download [IITC-pogo.json](IITC-pogo.json) and use the **Import Gyms & Pokestops** button shown in the screenshot below to load it.
+To import, download [IITC-pogo.json](https://raw.githubusercontent.com/brandonhanks/camberville-pogo-tools/master/IITC-pogo.json) and use the **Import Gyms & Pokestops** button shown in the screenshot below to load it.
 
 ![](images/pogo-actions.png)
 ![](images/import-export.png)
@@ -37,7 +37,7 @@ Now go back to https://intel.ingress.com/intel and input the latitude and longit
 
 # How to contribute
 
-If you want to contribute what you can see, first import the latest [IITC-pogo.json](IITC-pogo.json), then export the combined data as a new IITC-pogo.json. Add it to your repo and submit a pull request with the updated file.
+If you want to contribute what you can see, first import the latest [IITC-pogo.json](https://raw.githubusercontent.com/brandonhanks/camberville-pogo-tools/master/IITC-pogo.json), then export the combined data as a new IITC-pogo.json. Add it to your repo and submit a pull request with the updated file.
 
 If you don't know how to use git, you can email me your IITC-pogo.json at <bhanks@mit.edu> and I can add it for you.
 
