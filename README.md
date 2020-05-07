@@ -6,7 +6,7 @@ First, get an Ingress account by downloading Ingress on your mobile device and f
 
 Next, if you don't have it, you can get PoGo tools here: https://gitlab.com/AlfonsoML/pogo-s2
 
-Instructions for installing and pre-requisites can be found in that repository as well. Support for any isssues you have with those tools should be directed at those communities.
+Instructions for installing and pre-requisites can be found in that repository. Support for any isssues you have with those tools should be directed at those communities.
 
 Once the tools are loaded, you can use them on the Ingress intel portal: https://intel.ingress.com/intel
 
@@ -37,9 +37,9 @@ Now go back to https://intel.ingress.com/intel and input the latitude and longit
 
 # How to contribute
 
-If you want to contribute what you can see, first import the latest [IITC-pogo.json](IITC-pogo.json), then export it and submit a pull request with the updated file.
+If you want to contribute what you can see, first import the latest [IITC-pogo.json](IITC-pogo.json), then export the combined data as a new IITC-pogo.json. Add it to your repo and submit a pull request with the updated file.
 
-If you don't know how to use git, you can email me your IITC-pogo.json at <bhanks@mit.ede> and I can add it for you.
+If you don't know how to use git, you can email me your IITC-pogo.json at <bhanks@mit.edu> and I can add it for you.
 
 # Resources and communities
 
